@@ -10,7 +10,7 @@ Interested in sponsoring SSBSE'17? Please, check our <a href="../sponsor_invitat
 
 <h1 style="color:#d4af37">Gold</h1>
 
-<a href="https://www.adesso.de/en/index.jsp" target="_blank"><img src="../images/adesso_logo.jpg"></a>
+<a href="https://www.adesso.de/en/index.jsp" target="_blank"><img src="../images/Iwor_Logo.jpg"></a>
 
 <h1 style="color:#cd7f32">Bronze</h1><br>
 
