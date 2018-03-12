@@ -1,7 +1,7 @@
 ---
 layout: archive_smaller_font
 author_profile: true
-title: "Invitation to sponsor SSBSE'17"
+title: "Invitation to sponsor IWOR'18"
 ---
 
 <link rel="stylesheet" href="../css/sponsors.css">

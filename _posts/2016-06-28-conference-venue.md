@@ -2,7 +2,7 @@
 layout: single_smaller_font
 author_profile: true
 title: "Conference Venue"
-excerpt: "SSBSE'17 will be hosted in Paderborn, Germany."
+excerpt: "IWOR'18 will be hosted in Paderborn, Germany."
 ---
 
 SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.

@@ -2,7 +2,7 @@
 layout: single_smaller_font
 author_profile: true
 title: "Keynotes"
-excerpt: "Keynotes for SSBSE'17: Myra Cohen and Joachim Wegener."
+excerpt: "Keynotes for IWOR'17: Myra Cohen and Joachim Wegener."
 tags: []
 ---
 
@@ -12,7 +12,7 @@ tags: []
 
 <center><h2><a href="http://cse.unl.edu/~myra/index.html">Prof. Myra B. Cohen</a></h2></center>
 
-<b>Title: The Grass isn’t Always Greener:  A Changing Neighborhood and Varying Landscape  </b>
+<b>Title: The Grass isnâ€™t Always Greener:  A Changing Neighborhood and Varying Landscape  </b>
 
 
 <b>Abstract:</b> 
@@ -58,4 +58,4 @@ Most successful applications are from the test of embedded systems, since here o
 well tangible system tasks. But also the aspects hindering a broader application of evolutionary testing in practice shall be discussed. 
 The time is right for a wider introduction. 
 
-<b>Biography:</b> Dr. Joachim Wegener studied computer science at the Technical University Berlin and received his PhD from Humboldt University Berlin. His thesis work, “Evolutionary Testing of real-time systems’ temporal behavior” gained him the “Best Dissertation in Software Engineering” award of the Ernst-Denert-Foundation and the German Computer Society, 2002. Joachim Wegener began his professional career as a scientist at Daimler AG Research and Technology.  For DaimlerChrysler research and advanced development he led the software analysis and testing group as well as a group on advanced techniques in software engineering.  Since 2007 he works for Berner & Mattner  Systemtechnik GmbH – a subsidiary of the Assystem group – specialized on embedded systems development services and products. At Berner&Mattner, Joachim Wegener is responsible for the departments in Berlin, Brunswick, Cologne and Wolfsburg as well as the product development.  He is one of the international leading industrial researchers in evolutionary and systematic testing and has more than ninety publications. He is the inventor of the successful classification tree editors CTE, CTE XL and TESTONA with several thousand users worldwide. 
+<b>Biography:</b> Dr. Joachim Wegener studied computer science at the Technical University Berlin and received his PhD from Humboldt University Berlin. His thesis work, â€œEvolutionary Testing of real-time systemsâ€™ temporal behaviorâ€� gained him the â€œBest Dissertation in Software Engineeringâ€� award of the Ernst-Denert-Foundation and the German Computer Society, 2002. Joachim Wegener began his professional career as a scientist at Daimler AG Research and Technology.  For DaimlerChrysler research and advanced development he led the software analysis and testing group as well as a group on advanced techniques in software engineering.  Since 2007 he works for Berner & Mattner  Systemtechnik GmbH â€“ a subsidiary of the Assystem group â€“ specialized on embedded systems development services and products. At Berner&Mattner, Joachim Wegener is responsible for the departments in Berlin, Brunswick, Cologne and Wolfsburg as well as the product development.  He is one of the international leading industrial researchers in evolutionary and systematic testing and has more than ninety publications. He is the inventor of the successful classification tree editors CTE, CTE XL and TESTONA with several thousand users worldwide. 

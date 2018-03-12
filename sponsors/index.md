@@ -6,7 +6,7 @@ title: "Supporters of SSBSE 2017"
 
 <link rel="stylesheet" href="../css/sponsors.css">
 
-Interested in sponsoring SSBSE'17? Please, check our <a href="../sponsor_invitation" target="_blank">sponsors' invitation</a>
+Interested in sponsoring IWOR'18? Please, check our <a href="../sponsor_invitation" target="_blank">sponsors' invitation</a>
 
 <h1 style="color:#d4af37">Gold</h1>
 
