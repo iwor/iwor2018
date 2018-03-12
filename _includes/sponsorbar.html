@@ -1,0 +1,23 @@
+{% include base_path %}
+
+<link rel="stylesheet" href="../css/calendar_icon.css">
+
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sponsorbar" style="float:right;">
+
+  <center>
+  <p>
+  <b>SSBSE'17 is supported by:</b>
+  </p>
+
+   <h4 style="color:#d4af37">Gold</h4>
+   <a href="https://www.adesso.de/en/index.jsp" target="_blank" style="width:100%"><img src="../images/adesso_logo.jpg"></a><br><br>
+
+   <h4 style="color:#cd7f32">Bronze</h4><br>
+   <a href="http://crest.cs.ucl.ac.uk/about/" target="_blank"><img src="../images/crest_logo.png" style="width:50%"></a>
+  </center>
+
+   <br>
+   <a class="twitter-timeline" data-tweet-limit="5" href="https://twitter.com/ssbse">Tweets by ssbse</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+{% endif %}

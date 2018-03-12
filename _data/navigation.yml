@@ -1,0 +1,41 @@
+# main links links
+main:
+  - title: "Photos"
+    url: /photos
+
+  - title: "Program"
+    url: /program
+
+  - title: "Schedule"
+    url: /schedule
+
+  - title: "Accepted Papers"
+    url: /accepted_papers
+
+  - title: "Keynotes"
+    url: /keynotes
+
+  - title: "Tutorials"
+    url: /tutorials
+
+  - title: "Venue"
+    url: /venue
+
+  - title: "Travel,Hotel"
+    url: /travel_accommodation
+
+  - title: "Team"
+    url: /team
+
+  - title: "Register"
+    url: /registration
+
+  - title: "Challenge"
+    url: /challenge
+
+  - title: "Sponsors"
+    url: /sponsors
+
+  - title: "Submit"
+    url: /submit
+

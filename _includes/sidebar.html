@@ -1,0 +1,68 @@
+{% include base_path %}
+
+<link rel="stylesheet" href="../css/calendar_icon.css">
+
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar">
+
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+  {% endif %}
+
+
+  <center>
+  <p>
+  SSBSE'17 will be hosted in Paderborn, Germany, September 09-11.
+  </p>
+  <p>
+  The conference will be co-located with <a href="http://esec-fse17.uni-paderborn.de/" target="_blank">FSE'17</a>
+  </p>
+  </center>
+
+  <!--<p><b>Important Dates</b></p>-->
+  <!--<p><b>Research Track</b><br>-->
+  <center>
+  <p><b>Important Dates</b><br>
+     <strike>Feb14: Tutorial Proposals</strike><br>
+     <strike>Feb28: Tutorials Selected</strike><br>
+  </p>
+  <p><b>Submission</b><br>
+     <strike>Mar31: Abstracts</strike><br>
+     <strike>Apr07: Papers</strike><br>
+     <strike>May10: Notification</strike><br>
+     <strike>Jun07: Camera Ready</strike><br>
+  </p>
+  <p><b>Submission</b><br>
+     <strike>May21: Short Papers</strike><br>
+     <strike>May21: Student Papers</strike><br>
+     <strike>May25: Challenge Track</strike><br>
+     <strike>Jun04: Notification</strike><br>
+     <strike>Jun11: Camera Ready</strike><br>
+  </p>
+    <p><b>Registration</b><br>
+     <strike>Jun11: Author Registration</strike><br>
+      <strike>Jul09: Early Registration</strike><br>
+  </p>
+  </center>
+
+  <a href="../registration/" class="btn btn--block">Register Here</a>
+
+
+  </div>
+{% endif %}

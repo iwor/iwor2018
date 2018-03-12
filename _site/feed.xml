@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-21T14:25:25+01:00</updated><id>/</id><title>SSBSE&#39;17</title><subtitle>The SSBSE is the premier international research symposium on Search-based Software Engineering.</subtitle><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><entry><title>Keynotes</title><link href="/keynotes-announced/" rel="alternate" type="text/html" title="Keynotes" /><published>2016-08-09T00:00:00+01:00</published><updated>2016-08-09T00:00:00+01:00</updated><id>/keynotes-announced</id><content type="html" xml:base="/keynotes-announced/">&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/keynotes.css&quot; /&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/myra.jpg&quot; class=&quot;keynote_photo&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;h2&gt;&lt;a href=&quot;http://cse.unl.edu/~myra/index.html&quot;&gt;Prof. Myra B. Cohen&lt;/a&gt;&lt;/h2&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;b&gt;Title: The Grass isn’t Always Greener:  A Changing Neighborhood and Varying Landscape  &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; 
+Search based software engineering has been used to solve many problems in software engineering and as 
+such many different search based algorithms have been utilized for optimizing problems across the full software lifecycle.&lt;br /&gt;
+Solutions range from simple greedy to local heuristic search to evolutionary, population based techniques.&lt;br /&gt;
+Choosing the algorithm to use for a particular problem is a key design decision.  However, an equally important decision, 
+and one that is often less explored, is the design of the search neighborhood and the choice of its transformation operators.&lt;br /&gt;
+In this talk I will discuss some of our experience with varying the neighborhoods and transformation operators for problems 
+such as software test generation and reverse engineering system models. I will show how this important design decision can have a 
+large impact on the quality of a search algorithm for different variants of the same problem, because it fundamentally alters the search landscape.&lt;br /&gt;
+I will also show that while one neighborhood may be superior solving one variation of a problem, it may not work well at all for another variant 
+of the same problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Biography:&lt;/b&gt; Myra Cohen is a Susan J. Rosowski Professor at the University of Nebraska-Lincoln where she has been a member 
+of the Laboratory for Empirically Based Software Quality Research and Development, ESQuaReD since 2004.&lt;br /&gt;
+Her research expertise is in combinatorial testing and software testing of highly configurable software, 
+software product lines, graphical user interfaces, and self-adaptive software.&lt;br /&gt;
+She regularly utilizes search based software engineering techniques in her research and teaches a graduate course on this topic. 
+She has been a program committee member of many highly regarded software engineering conferences such as ICSE, FSE, ASE, ISSTA and ICST. 
+She was the program co-chair of SSBSE in 2011, the GECCO SBSE track in 2010 and ISSRE in 2013. She was the general chair of ASE in 2015.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/joachim.jpg&quot; class=&quot;keynote_photo&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;h2&gt;Dr. Joachim Wegener&lt;/h2&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;b&gt;Title: Industrial Applications of Evolutionary Testing&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; Test case design could be easily interpreted as the search of the tester for an error-sensitive set of test cases. 
+The application of search techniques to find an adequate set of test cases automatically is straight forward if an appropriate transformation 
+of the testing goals into a fitness function could be defined. Therefore, numerous publications on evolutionary testing were published during 
+the last two decades from researchers all over the world. Nevertheless, evolutionary testing has not found its way into industrial practice. 
+Industrial applications are mostly limited to experimental case studies.&lt;/p&gt;
+
+&lt;p&gt;The keynote will present successful applications of evolutionary testing in industrial practice and will discuss the success factors. 
+Most successful applications are from the test of embedded systems, since here often very complex implementations are required in order to realize single, 
+well tangible system tasks. But also the aspects hindering a broader application of evolutionary testing in practice shall be discussed. 
+The time is right for a wider introduction.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Biography:&lt;/b&gt; Dr. Joachim Wegener studied computer science at the Technical University Berlin and received his PhD from Humboldt University Berlin. His thesis work, “Evolutionary Testing of real-time systems’ temporal behavior” gained him the “Best Dissertation in Software Engineering” award of the Ernst-Denert-Foundation and the German Computer Society, 2002. Joachim Wegener began his professional career as a scientist at Daimler AG Research and Technology.  For DaimlerChrysler research and advanced development he led the software analysis and testing group as well as a group on advanced techniques in software engineering.  Since 2007 he works for Berner &amp;amp; Mattner  Systemtechnik GmbH – a subsidiary of the Assystem group – specialized on embedded systems development services and products. At Berner&amp;amp;Mattner, Joachim Wegener is responsible for the departments in Berlin, Brunswick, Cologne and Wolfsburg as well as the product development.  He is one of the international leading industrial researchers in evolutionary and systematic testing and has more than ninety publications. He is the inventor of the successful classification tree editors CTE, CTE XL and TESTONA with several thousand users worldwide.&lt;/p&gt;</content><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><summary>Keynotes for SSBSE&#39;17: Myra Cohen and Joachim Wegener.</summary></entry><entry><title>Conference Venue</title><link href="/conference-venue/" rel="alternate" type="text/html" title="Conference Venue" /><published>2016-06-28T00:00:00+01:00</published><updated>2016-06-28T00:00:00+01:00</updated><id>/conference-venue</id><content type="html" xml:base="/conference-venue/">&lt;p&gt;SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.&lt;/p&gt;
+
+&lt;p&gt;The conference will be held in the &lt;a href=&quot;https://www.hni.uni-paderborn.de/en/headernavigation/contact-us/&quot; target=&quot;_blank&quot;&gt;Heinz Nixdorf Institute&lt;/a&gt; next to the world’s largest computer museum: the Heinz Nixdorf MuseumsForum. 
+In the Heinz Nixdorf Institute the conference will be held in room F0.530 on the main floor and in room F1.110 on the first floor.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Address:&lt;/b&gt;&lt;br /&gt;
+Heinz Nixdorf Institute,&lt;br /&gt;
+University of Paderborn,&lt;br /&gt;
+Fürstenallee 11,&lt;br /&gt; 
+33102 Paderborn,&lt;br /&gt; 
+Germany&lt;/p&gt;
+
+&lt;h3 id=&quot;region-of-eastern-westphalia-ostwestfalen-lippe&quot;&gt;Region of Eastern Westphalia (Ostwestfalen-Lippe)&lt;/h3&gt;
+
+&lt;p&gt;The region is situated at the heart of Germany and Europe. There are fast road links in all directions, with the A2, A30 and A44 highways running east to west and the A7 and A1 offering connections to the north and south. With an intercity rail station in Bielefeld and an airport in Paderborn, OWL is also well-connected to local public transport.&lt;/p&gt;
+
+&lt;p&gt;There are magnificent natural areas to discover and enjoy in the Teutoburg Forest, Wiehen and Egge hills, on the Senne, and along the Weser, Ems, Pader, and Lippe rivers. There are excellent trails catering to recreational hikers and cyclists, and a great many interesting places to visit, including historic old towns, the Hermann Monument and the Externsteine rock formation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/externsteine.png&quot; alt=&quot;image-externsteine&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Sandstone Rock Formation Externsteine Located in the Teutoburg Forest, Picture Credits:  CC-BY-SA-3.0, From Wikimedia Commons by User:Tuxyso&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;city-of-paderborn&quot;&gt;City of Paderborn&lt;/h3&gt;
+
+&lt;p&gt;Situated at the heart of Germany, midway between the Northern Lowlands and the mountainous central region, the charming city of Paderborn is full of many diverse and delightful attractions. The city has numerous qualities to tempt the visitor. With over 1,200 years of history to its credit, it is steeped in historical tradition, which has shaped the cityscape. The many parks and green spaces beginning right by the shopping precinct at Pader Springs are much appreciated by city-dwellers and visitors alike. Despite the recent modernization and expansion of the city, it remains a user-friendly place that can be easily navigated. In comparison with other cities, inhabitants have only a short distance to travel from home to work. Paderborn’s appeal thus lies in the combination of many different qualities. Ancient and modern, sacred and spiritual, economic and political are all combined, each contributing to the city’s distinctive character.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/Rathaus_sm_(holger_fischer).jpg&quot; alt=&quot;image-rathaus&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Historical Townhall of Paderborn, Picture Credits: Holger Fischer s-lab – Software Quality Lab&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;More information: &lt;a href=&quot;http://www.paderborn.de/microsite/welcome/index.php&quot; target=&quot;_blank&quot;&gt;Paderborn Cityportal&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;museums&quot;&gt;Museums&lt;/h3&gt;
+&lt;p&gt;12 museums are located within Paderborn.
+The museum at the imperial palace is where the original foundations of both the palace complex of Charlemagne in the 8th century and the masonry Palatinate Henry II in the High Middle Ages were issued.&lt;/p&gt;
+
+&lt;p&gt;Another popular museum is the Archbishop’s Diocesan Museum and the Cathedral Treasury, both containing an extensive collection of religious art from the 10th to the 20th century. Overall, the collection includes about 8000 exhibits.&lt;/p&gt;
+
+&lt;p&gt;The Heinz Nixdorf MuseumsForum is the world’s largest computer museum, as well as a vibrant venue. The 5,000-year history, present and future of information technology is depicted over 6,000 m² of floor space, from the origins of numbers and characters in 3,000 B.C. all the way to the computer age of the 21st century. The 2,000-plus objects on show are presented within the broad context of social and economic history, making the exhibition appealing to laymen and computer experts alike.
+More information: &lt;a href=&quot;http://www.hnf.de/en/home.html&quot; target=&quot;_blank&quot;&gt;Heinz Nixdorf MuseumsForum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/HNF-Aussenansicht_sm.jpg&quot; alt=&quot;image-hnf&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Heinz Nixdorf MuseumsForum, Picture Credits: Jan Braun  &lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;structures&quot;&gt;Structures&lt;/h3&gt;
+
+&lt;p&gt;In addition to cities such as Aachen amd Münster, Paderborn is among the most important historic towns in North Rhine-Westphalia. Overall, the most important monuments of Paderborn date back to the 10th and 13th centuries, as well as to the Baroque in 17/18. century.&lt;/p&gt;
+
+&lt;p&gt;The Paderborn Cathedral is the symbol of the city and it dates back to the 13th century. The cathedral impresses with its imposing size (the west tower has a height of 93 meters on the crypt with 32 meters length, being one of the largest in Germany) as well as with a fascinating architecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/Paderborn_Dom_Westturm_835.jpg&quot; alt=&quot;image-chapel&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Paderborn Cathedral, Picture Credits:  CC-BY-SA-3.0, From Wikimedia Commons by User:Efgeka&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The Bartholomew Chapel in Paderborn was built around 1017 and is considered the oldest known church hall north of the Alps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/Bartholomaeuskapelle.JPG&quot; alt=&quot;image-chapel&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Bartholomaeuskapelle, Picture Credits:  CC0 1.0,, From Wikimedia Commons by User:Athde&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;In Schloß Neuhaus, about 4 km from the city centre, there is the former residence of the Paderborn prince bishops. The water castle from the early Weser Renaissance era with its lovely Baroque garden are also worth visiting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/neuhaus.jpg&quot; alt=&quot;image-neuhaus&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Schloß Neuhaus, Picture Credits: CC-BY-SA-3.0, From Wikimedia Commons by User:Rufus46&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tourism&quot;&gt;Tourism&lt;/h2&gt;
+
+&lt;h3 id=&quot;theater&quot;&gt;Theater&lt;/h3&gt;
+
+&lt;p&gt;The Westfälische Kammerspiele Paderborn inspires with a varied program. Not only the performances, but also the building in the heart of Paderborn is worth seeing. &lt;a href=&quot;http://www.theater-paderborn.de/final/html/programm_spielplan.php&quot; target=&quot;_blank&quot;&gt;Program (in German)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/venue/Theater.jpg&quot; alt=&quot;image-chapel&quot; class=&quot;align-center&quot; /&gt;
+&lt;span style=&quot;font-size: 10px&quot;&gt;Westfälische Kammerspiele Paderborn, Picture Credits:  CC BY-SA 4.0, From Wikimedia Commons by User:Grand Tour&lt;/span&gt;&lt;/p&gt;</content><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><summary>SSBSE&#39;17 will be hosted in Paderborn, Germany.</summary></entry><entry><title>Call for Papers</title><link href="/call-for-papers/" rel="alternate" type="text/html" title="Call for Papers" /><published>2016-06-27T00:00:00+01:00</published><updated>2016-06-27T00:00:00+01:00</updated><id>/call-for-papers</id><content type="html" xml:base="/call-for-papers/">&lt;p&gt;&lt;b&gt;9th International Symposium on Search Based Software Engineering (SSBSE 2017)&lt;br /&gt;
+co-located with ESEC/FSE’17 Paderborn, Germany, September 9-11, 2017 &lt;br /&gt;
+http://ssbse17.github.io &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Research Paper Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We invite the submission of high quality papers describing novel and original work in all areas of Search-Based Software Engineering including, but not limited to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;applications of SBSE to novel problems,&lt;/li&gt;
+  &lt;li&gt;theoretical analyses of search algorithms for software engineering,&lt;/li&gt;
+  &lt;li&gt;rigorous empirical evaluations of SBSE techniques,&lt;/li&gt;
+  &lt;li&gt;reports of industrial experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;SSBSE welcomes not only applications from throughout the software engineering lifecycle but also a broad range of search methods ranging from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;exact Operational Research techniques to&lt;/li&gt;
+  &lt;li&gt;nature-inspired algorithms and simulated annealing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We particularly encourage papers that report on software engineering applications to which SBSE has not been applied before.&lt;/p&gt;
+
+&lt;p&gt;Research papers must have up to 15 pages in length, including all text, figures, references and appendices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Short Paper Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We also invite short papers presenting new ideas, tools, experience reports, or novel techniques and ideas, which will be included in the proceedings and presented at the symposium. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Student Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We also invite students to submit papers to a special Student track. This track gives students the opportunity to showcase their SBSE research and receive feedback from senior members of the SBSE community. Papers submitted to this track should not exceed 6 pages in length using the regular symposium format. To be eligible, papers should be primarily the work of students that have not yet completed their studies. The paper may have co-authors who are not students but the student author is expected to present the paper at the symposium.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SBSE Challenge Track&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We challenge everyone interested in SBSE to apply tools, techniques, and algorithms to our selected problems. We want you to apply your SBSE expertise to do interesting things to or with the software and uncover interesting things related to it. The best competition entries will be awarded special prizes. Challenge papers should not exceed 6 pages in length using the regular symposium format. More details about the track will be announced on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2 page proposals for 1 hour tutorials covering state-of-the-art SBSE methods. Proposals must describe what will be presented and why this might be of interest to this community. Proposals will be selected on their novelty, technical content, track record of the presenter and, ideally, degree of interactivity with the audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transfer talks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Invited talks from authors publishing innovative work relevant to SBSE, originally presented at other forums. To nominate speakers for such talks, please email ssbse2017@easychair.org.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conference Proceedings&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accepted papers will be published in a volume of the Springer Lecture Notes in Computer Science series (LNCS).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Best Paper Awards and Travel Grants&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Research and Student papers accepted for presentation at SSBSE 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Special Section in IST for Best Papers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Following from the conference, a selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of the journal of Information and Software Technology published by Elsevier http://www.elsevier.com/locate/infsof.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Key Dates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;RESEARCH PAPER TRACK:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Abstract submission                      March 31, 2017&lt;/li&gt;
+  &lt;li&gt;Paper Submission                            April 7, 2017&lt;/li&gt;
+  &lt;li&gt;Notification                                     May 14, 2017&lt;/li&gt;
+  &lt;li&gt;Camera Ready                                June 14, 2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;SHORT PAPER, STUDENT AND SBSE CHALLENGE TRACKS:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submission                                    May 21, 2017&lt;/li&gt;
+  &lt;li&gt;Notification                                    June 7, 2017&lt;/li&gt;
+  &lt;li&gt;Camera ready: TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission site: &lt;a href=&quot;https://easychair.org/conferences/?conf=ssbse2017&quot; target=&quot;_blank&quot;&gt;https://easychair.org/conferences/?conf=ssbse2017&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;avatar&quot;=&gt;&quot;logo-ssbse-avatar.png&quot;, &quot;bio&quot;=&gt;&quot;The SSBSE is the premier international research symposium on Search-based Software Engineering.&quot;, &quot;location&quot;=&gt;&quot;Paderborn, Germany&quot;, &quot;email&quot;=&gt;nil, &quot;uri&quot;=&gt;nil, &quot;bitbucket&quot;=&gt;nil, &quot;codepen&quot;=&gt;nil, &quot;dribbble&quot;=&gt;nil, &quot;flickr&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;foursquare&quot;=&gt;nil, &quot;github&quot;=&gt;nil, &quot;google_plus&quot;=&gt;nil, &quot;keybase&quot;=&gt;nil, &quot;instagram&quot;=&gt;nil, &quot;lastfm&quot;=&gt;nil, &quot;linkedin&quot;=&gt;nil, &quot;pinterest&quot;=&gt;nil, &quot;soundcloud&quot;=&gt;nil, &quot;stackoverflow&quot;=&gt;nil, &quot;steam&quot;=&gt;nil, &quot;tumblr&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;vine&quot;=&gt;nil, &quot;weibo&quot;=&gt;nil, &quot;xing&quot;=&gt;nil, &quot;youtube&quot;=&gt;nil}</name></author><summary>CfP for the Symposium on Search-based Software Engineering.</summary></entry></feed>

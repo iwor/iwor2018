@@ -1,0 +1,57 @@
+/*#sponsors-table td{*/
+   /*border-right: none;*/
+   /*border-left: none;*/
+/*}*/
+
+.sponsors-table-header{
+   text-align: center;
+}
+
+.sponsors-table-header-benefits{
+   background-color: #253529;
+   color: white;
+}
+
+.sponsors-table-header-diamond{
+   background-color: #b9f2ff;
+}
+
+.sponsors-table-header-platinum{
+   background-color: #e5e4e2;
+}
+
+.sponsors-table-header-gold{
+   background-color: #d4af37;
+}
+
+.sponsors-table-header-silver{
+   background-color: #c0c0c0;
+}
+
+.sponsors-table-header-bronze{
+   background-color: #cd7f32;
+}
+
+.sponsors-table-header-copper{
+   background-color: #b87333;
+}
+
+.no-borders-cell{
+   border-right: none;
+   border-left: none;
+}
+
+.content-cell{
+   text-align: center;
+}
+
+.additional-packages-cell{
+   text-align: center;
+   background-color: #253529;
+   color: white;
+   font-weight: bold;
+}
+
+.included-cell{
+   background-color: #80ffa8;
+}

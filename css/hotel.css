@@ -1,0 +1,10 @@
+.hotel{
+   display: inline-block;
+   width: 100%
+}
+
+.hotel_photo{
+   float: left;
+   margin-right: 11px;
+   margin-bottom: 11px;
+}
