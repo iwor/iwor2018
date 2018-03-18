@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: true
-title: "Photos"
+title: "Home"
 ---
 ## Workshop summary
 

@@ -56,8 +56,8 @@ All submissions must be formatted according to the IEEE Conference Proceedings F
 (title in 24pt font and full text in 10pt font, LaTEX users must use \documentclass[10pt,conference]{IEEEtran} 
 without including the compsoc or compsocconf option) and should be submitted through EasyChair at:
 
-https://easychair.org/conferences/?conf=iwor2018
-
+<p> <a href="https://easychair.org/conferences/?conf=iwor2018" target="_blank">https://easychair.org/conferences/?conf=iwor2018</a>
+  </p>
 
 
 Each paper will be reviewed by at least three referees. 

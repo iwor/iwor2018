@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Photos"
+  - title: "Home"
     url: /photos
 
   - title: "Program"
@@ -15,16 +15,7 @@ main:
   - title: "Keynotes"
     url: /keynotes
 
-  - title: "Tutorials"
-    url: /tutorials
-
-  - title: "Venue"
-    url: /venue
-
-  - title: "Travel,Hotel"
-    url: /travel_accommodation
-
-  - title: "Team"
+  - title: "Organization Committee"
     url: /team
 
   - title: "Register"
