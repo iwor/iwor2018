@@ -8,7 +8,7 @@ title: "Schedule"
 
 <div class="container">
   <div class="talks">
-    <b>Note: Please bring your laptops for the tutorials.</b>
+    
   </div>
 </div>
 
