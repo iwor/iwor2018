@@ -30,12 +30,6 @@ main:
   - title: "Register"
     url: /registration
 
-  - title: "Challenge"
-    url: /challenge
-
-  - title: "Sponsors"
-    url: /sponsors
-
   - title: "Submit"
     url: /submit
 
