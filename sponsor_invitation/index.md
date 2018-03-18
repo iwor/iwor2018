@@ -6,7 +6,7 @@ title: "Invitation to sponsor IWOR'18"
 
 <link rel="stylesheet" href="../css/sponsors.css">
 
-SSBSE is the premier international research symposium on Search-based Software Engineering.
+IWOR is the premier international research symposium on Search-based Software Engineering.
 
 Benefits and prices for four support levels are listed in the table below. Additional benefits or support levels may be negotiated. Please contact the general chair <a href="https://www.informatik.hu-berlin.de/de/Members/lars-grunske" target="_blank">Lars Grunske</a>.
 

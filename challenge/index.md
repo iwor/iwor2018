@@ -9,13 +9,13 @@ ______
 
 ## Call for Participation
 
-The SBSE Challenge Track, held in coordination with the SSBSE Symposium, is an exciting opportunity for SBSE researchers to demonstrate the efficacy of their methods on real-world software. Participants target one of a selected suite of open source development projects and apply SBSE methods; the principal criterion is to produce interesting results.
+The SBSE Challenge Track, held in coordination with the IWOR Symposium, is an exciting opportunity for SBSE researchers to demonstrate the efficacy of their methods on real-world software. Participants target one of a selected suite of open source development projects and apply SBSE methods; the principal criterion is to produce interesting results.
 
 Entrants will compete for <b>cash prizes totaling €1000</b>. Thanks to the [CREST Centre](http://crest.cs.ucl.ac.uk/) for their generous sponsorship of this competition.
 
 The deadline for submissions is <b>May 25th 2017</b>.
 
-The winner will be announced at SSBSE 2017, which is collocated with FSE and will take place in Paderborn, Germany, Sept 9-11th 2017.
+The winner will be announced at IWOR 2017, which is collocated with FSE and will take place in Paderborn, Germany, Sept 9-11th 2017.
 
 ### Submitting to the Challenge Track
 
@@ -24,7 +24,7 @@ In order to participate, you should:
 - Focus your investigation on one of the selected programs (see below).
 - Report your findings in a six-page paper.
 - Submit the challenge paper on or before the deadline (May 25th, 2017).
-- If your paper is accepted, present your findings at SSBSE 2017 in Paderborn, Germany, 9-11th September 2017.
+- If your paper is accepted, present your findings at IWOR 2017 in Paderborn, Germany, 9-11th September 2017.
 
 It is not mandatory for submissions to the SBSE Challenge track to implement a new tool or technique. However, we do expect that applying your existing or new tools/techniques to one of the challenge programs lead to practically interesting results.
 
@@ -58,7 +58,7 @@ SQLite is arguably the most popular database in the world. It is designed for ef
 
 Guava is a widely adopted and extensive Java collections library developed by Google. It includes over 252KLOC and its test suite includes a thorough set of performance tests.
 
-_Please note that Guava was also used in the SBSE 2015 Challenge, and you should ensure that your work is not simply a duplication of previous effort. Details of that year's papers and presentations can be found in [the SSBSE 2015 programme](http://ssbse.org/2015/index1521.html?page_id=161)._
+_Please note that Guava was also used in the SBSE 2015 Challenge, and you should ensure that your work is not simply a duplication of previous effort. Details of that year's papers and presentations can be found in [the IWOR 2015 programme](http://ssbse.org/2015/index1521.html?page_id=161)._
 
 <b>Flask</b>
 
@@ -72,11 +72,11 @@ Your paper should describe your method and findings. It should provide a brief i
 
 ## Submission Details
 
-The papers must be at most 6 pages long in PDF format and should conform at time of submission to the SSBSE/Springer LNCS format and submission guidelines. They must not have been previously published, or be in consideration for, any journal, book, or other conference. Please submit your challenge paper to EasyChair on or before the Challenge track deadline (May 25th 2017). At least one author of each paper is expected to present the results at SSBSE 2017. Papers for the Challenge track are not required to follow the double blind restrictions. All accepted contributions will be published in the conference electronic proceedings.
+The papers must be at most 6 pages long in PDF format and should conform at time of submission to the IWOR/Springer LNCS format and submission guidelines. They must not have been previously published, or be in consideration for, any journal, book, or other conference. Please submit your challenge paper to EasyChair on or before the Challenge track deadline (May 25th 2017). At least one author of each paper is expected to present the results at IWOR 2017. Papers for the Challenge track are not required to follow the double blind restrictions. All accepted contributions will be published in the conference electronic proceedings.
 
 ## Further Information
 
-Details are available via the [SSBSE website](http://ssbse17.github.io/challenge).
+Details are available via the [IWOR website](http://ssbse17.github.io/challenge).
 
 If you have any questions about the challenge, please e-mail the Challenge Track chairs:
 

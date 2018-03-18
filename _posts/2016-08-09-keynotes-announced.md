@@ -33,7 +33,7 @@ Her research expertise is in combinatorial testing and software testing of highl
 software product lines, graphical user interfaces, and self-adaptive software.  
 She regularly utilizes search based software engineering techniques in her research and teaches a graduate course on this topic. 
 She has been a program committee member of many highly regarded software engineering conferences such as ICSE, FSE, ASE, ISSTA and ICST. 
-She was the program co-chair of SSBSE in 2011, the GECCO SBSE track in 2010 and ISSRE in 2013. She was the general chair of ASE in 2015.
+She was the program co-chair of IWOR in 2011, the GECCO SBSE track in 2010 and ISSRE in 2013. She was the general chair of ASE in 2015.
 
 ---
 

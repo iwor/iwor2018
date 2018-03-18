@@ -4,7 +4,7 @@ author_profile: true
 title: "Call for Papers"
 ---
 
-<b>9th International Symposium on Search Based Software Engineering (SSBSE 2017)  
+<b>9th International Symposium on Search Based Software Engineering (IWOR 2017)  
 co-located with ESEC/FSE'17 Paderborn, Germany, September 9-11, 2017   
 
 ____
@@ -61,7 +61,7 @@ We invite the submission of high quality papers describing novel and original wo
 - rigorous empirical evaluations of SBSE techniques, 
 - reports of industrial experiences. 
 
-SSBSE welcomes not only applications from throughout the software engineering lifecycle but also a broad range of search methods ranging from:
+IWOR welcomes not only applications from throughout the software engineering lifecycle but also a broad range of search methods ranging from:
 
 - exact Operational Research techniques to 
 - nature-inspired algorithms and simulated annealing. 
@@ -108,7 +108,7 @@ Accepted papers will be published in a volume of the Springer Lecture Notes in C
 
 **Best Paper Awards and Travel Grants**
 
-Research and Student papers accepted for presentation at SSBSE 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website. 
+Research and Student papers accepted for presentation at IWOR 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website. 
 
 **Special Section in IST for Best Papers** 
 
@@ -121,7 +121,7 @@ Following from the conference, a selection of best papers will be invited to sub
 
 Papers must not have been previously published, or be in consideration for, any journal, book, or other conference.
 
-Papers must be formatted according to the LNCS instructions (<a href="http://www.springer.com/lncs" target="_blank">http://www.springer.com/lncs</a>). In addition to those instructions, please consider that SSBSE is performing double-blind review of all submissions, but those for the SBSE Challenge track (i.e., authors will not be identified to reviewers, and reviewers will not be identified to authors; see here for more information). We therefore ask that authors anonymize their submissions:
+Papers must be formatted according to the LNCS instructions (<a href="http://www.springer.com/lncs" target="_blank">http://www.springer.com/lncs</a>). In addition to those instructions, please consider that IWOR is performing double-blind review of all submissions, but those for the SBSE Challenge track (i.e., authors will not be identified to reviewers, and reviewers will not be identified to authors; see here for more information). We therefore ask that authors anonymize their submissions:
 
 
 1. Omit author and institutional information from the author list on the title page, as well as on all paper headers. Unfortunately, the llncs format does not provide an easy blinding mechanism. We thus recommend that you replace author and affiliation info with “Authors/institution suppressed for blind review” so that the header spacing is maintained relative to the page limit.

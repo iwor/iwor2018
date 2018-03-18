@@ -27,7 +27,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="The SSBSE is the premier international research symposium on Search-based Software Engineering.">
+	<meta name="description" content="The IWOR is the premier international research symposium on Search-based Software Engineering.">
   	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
@@ -37,7 +37,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="The SSBSE is the premier international research symposium on Search-based Software Engineering.">
+	<meta property="og:description" content="The IWOR is the premier international research symposium on Search-based Software Engineering.">
 	<meta property="og:url" content="https://phlow.github.io/feeling-responsive/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -52,7 +52,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="The SSBSE is the premier international research symposium on Search-based Software Engineering.">
+	<meta name="twitter:description" content="The IWOR is the premier international research symposium on Search-based Software Engineering.">
 	
 	
 
@@ -196,7 +196,7 @@
 
             
             
-              <li><a href="https://phlow.github.io/feeling-responsive/">SSBSE</a></li>
+              <li><a href="https://phlow.github.io/feeling-responsive/">IWOR</a></li>
               <li class="divider"></li>
 
             
@@ -533,7 +533,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              The SSBSE is the premier international research symposium on Search-based Software Engineering.
+              The IWOR is the premier international research symposium on Search-based Software Engineering.
               <a href="https://phlow.github.io/feeling-responsive/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

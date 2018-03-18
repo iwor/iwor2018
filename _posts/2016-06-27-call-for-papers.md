@@ -6,7 +6,7 @@ excerpt: "CfP for the Symposium on Search-based Software Engineering."
 tags: []
 ---
 
-<b>9th International Symposium on Search Based Software Engineering (SSBSE 2017)  
+<b>9th International Symposium on Search Based Software Engineering (IWOR 2017)  
 co-located with ESEC/FSE'17 Paderborn, Germany, September 9-11, 2017   
 http://ssbse17.github.io </b>
 
@@ -19,7 +19,7 @@ We invite the submission of high quality papers describing novel and original wo
 - rigorous empirical evaluations of SBSE techniques, 
 - reports of industrial experiences. 
 
-SSBSE welcomes not only applications from throughout the software engineering lifecycle but also a broad range of search methods ranging from:
+IWOR welcomes not only applications from throughout the software engineering lifecycle but also a broad range of search methods ranging from:
 
 - exact Operational Research techniques to 
 - nature-inspired algorithms and simulated annealing. 
@@ -54,7 +54,7 @@ Accepted papers will be published in a volume of the Springer Lecture Notes in C
 
 **Best Paper Awards and Travel Grants**
 
-Research and Student papers accepted for presentation at SSBSE 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website. 
+Research and Student papers accepted for presentation at IWOR 2017 will be considered for prizes. More details about prizes and travel grants will be announced on the website. 
 
 **Special Section in IST for Best Papers** 
 

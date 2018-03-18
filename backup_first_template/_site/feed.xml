@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="https://phlow.github.io/feeling-responsive/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>SSBSE&#39;17</title>
-		<description>The SSBSE is the premier international research symposium on Search-based Software Engineering.</description>
+		<title>IWOR&#39;17</title>
+		<description>The IWOR is the premier international research symposium on Search-based Software Engineering.</description>
 		<link>https://phlow.github.io/feeling-responsive/</link>
 		<atom:link href="https://phlow.github.io/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
 		

@@ -21,7 +21,7 @@ Please, check our map for the conference building, lunch and reception as follow
 
 ### Region of Eastern Westphalia (Ostwestfalen-Lippe)
 
-SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
+IWOR 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
 
 The region is situated at the heart of Germany and Europe. There are fast road links in all directions, with the A2, A30 and A44 highways running east to west and the A7 and A1 offering connections to the north and south. With an intercity rail station in Bielefeld and an airport in Paderborn, OWL is also well-connected to local public transport.
 

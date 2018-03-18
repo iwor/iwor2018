@@ -395,7 +395,7 @@ Colour-coded schedule available <a href="../images/coloured_schedule.pdf" target
       <br><br>
       <em>Elias Khalil, Mustafa Assaf and Abdel Salam Sayyad.</em> Human Resource Optimization for Bug Fixing: Balancing Short-Term and Long-Term Objectives
       <br><br>
-      <b>Closing & SSBSE 2018 announcement</b>
+      <b>Closing & IWOR 2018 announcement</b>
    </div>
 </div>
 

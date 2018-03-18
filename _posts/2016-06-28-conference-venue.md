@@ -5,7 +5,7 @@ title: "Conference Venue"
 excerpt: "IWOR'18 will be hosted in Paderborn, Germany."
 ---
 
-SSBSE 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
+IWOR 2017 will take place in Paderborn, Germany. Paderborn is a city in eastern North Rhine-Westphalia, Germany. The city combines over 1,200 years of history with high-tech research and industry. Paderborn was once the oldest academic site in Westphalia. The Paderborn University was founded in 1614 by the Jesuits, but was closed in 1819. It was re-founded in 1972. Today, it is attended by about 20,000 students. Paderborn will offer you a fascinating mixture worth seeing.
 
 The conference will be held in the <a href="https://www.hni.uni-paderborn.de/en/headernavigation/contact-us/" target="_blank">Heinz Nixdorf Institute</a> next to the world's largest computer museum: the Heinz Nixdorf MuseumsForum. 
 In the Heinz Nixdorf Institute the conference will be held in room F0.530 on the main floor and in room F1.110 on the first floor. 

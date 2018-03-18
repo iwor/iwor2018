@@ -1,7 +1,7 @@
 ---
 layout: archive_smaller_font
 author_profile: true
-title: "Supporters of SSBSE 2017"
+title: "Supporters of IWOR 2017"
 ---
 
 <link rel="stylesheet" href="../css/sponsors.css">

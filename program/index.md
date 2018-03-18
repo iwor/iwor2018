@@ -25,9 +25,9 @@ IWOR'18 is going to host four <a href="../tutorials" target="_blank">tutorials</
 
 ______
 
-## SSBSE Challenge
+## IWOR Challenge
 
-The highly sucessful SSBSE challenge continues at IWOR'18. Are you up for the task? Check our <a href="../challenge" target="_blank">challenge call</a> to see how you can apply and win up to <b>€1000</b>.
+The highly sucessful IWOR challenge continues at IWOR'18. Are you up for the task? Check our <a href="../challenge" target="_blank">challenge call</a> to see how you can apply and win up to <b>€1000</b>.
 
 ______
 
