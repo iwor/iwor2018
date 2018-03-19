@@ -1,13 +1,8 @@
 # main links links
 main:
-  - title: "Home"
-    url: /photos
 
   - title: "Program"
     url: /program
-
-  - title: "Schedule"
-    url: /schedule
 
   - title: "Accepted Papers"
     url: /accepted_papers
@@ -17,9 +12,6 @@ main:
 
   - title: "Organization Committee"
     url: /team
-
-  - title: "Register"
-    url: /registration
 
   - title: "Submit"
     url: /submit
