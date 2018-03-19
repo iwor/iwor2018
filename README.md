@@ -1,1 +1,1 @@
-Prototype for IWOR2018
+## International Workshop on Software Refactoring 2018 Website
