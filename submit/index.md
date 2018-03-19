@@ -45,7 +45,7 @@ Accepted papers will be published in the workshop proceedings in the IEEE digita
 
 A selection of the best papers will be invited to submit extended versions for tentative publication in a Special
 Issue of the journal Information and Software Technology published by Elsevier.
-Journal website: http://www.elsevier.com/locate/infsof
+Journal website: <a href="http://www.elsevier.com/locate/infsof" target="_blank">http://www.elsevier.com/locate/infsof</a>
 
 
 ## Submission
