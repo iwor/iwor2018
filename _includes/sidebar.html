@@ -5,48 +5,19 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar">
 
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
 
 
-  <center>
-  <p>
-  IWOR'18 will be hosted in Montpellier, France, September 2018.
-  </p>
-  <p>
-  The workshop will be co-located with <a href="http://www.ase2018.com/" target="_blank">ASE 2018</a>
-  </p>
-  </center>
 
   <!--<p><b>Important Dates</b></p>-->
   <!--<p><b>Research Track</b><br>-->
-  <center>
   <p><b>Important Dates</b><br>
     	June 03: Deadline for submissions<br>
     	July 08: Notification of authors<br>
     	July 31: Camera-ready<br>
     	Sept 04: Workshop date.<br>
   </p>
-  </center>
 
-  <a href="../registration/" class="btn btn--block">Register Here</a>
+  <a href="https://easychair.org/conferences/?conf=iwor2018" class="btn btn--block">Submit Here</a>
 
 
   </div>

@@ -2,17 +2,17 @@
 main:
 
   - title: "Program"
-    url: /program
+    url: ./index.html
 
   - title: "Accepted Papers"
-    url: /accepted_papers
+    url: ./index.html
 
   - title: "Keynotes"
-    url: /keynotes
+    url: ./index.html
 
   - title: "Organization Committee"
     url: /team
 
   - title: "Submit"
-    url: /submit
+    url: ./index.html#call-for-papers
 
