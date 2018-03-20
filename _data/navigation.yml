@@ -5,7 +5,7 @@ main:
     url: /index.html#program
 
   - title: "Accepted Papers"
-    url: /index.html
+    url: /index.html#accepted-papers
 
   - title: "Keynotes"
     url: /index.html#key-notes
