@@ -1,6 +1,6 @@
 a:focus{
-outline:thin dotted #f89406;
-outline:5px auto #f89406;
+outline:none;
+outline:0px;
 outline-offset:-2px}
 *,*:before,*:after{
 box-sizing:border-box}
